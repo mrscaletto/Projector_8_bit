@@ -1,5 +1,5 @@
 # Projector_8_bit  09.06.23
-Project in PhystechFabric 8 semester 
+Project in PhystechFabric 8 semester  
 Authors: Danila Plaksin, Daud Paragulgov
 
 
