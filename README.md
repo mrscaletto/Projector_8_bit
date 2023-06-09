@@ -26,9 +26,11 @@ Authors: Danila Plaksin, Daud Paragulgov
  Задача №2 - Схема электроники  
  В основу пульта мы взяли схему предложенную нам на обучение в середине семестра, мы решили разработать корпус для пульта и поместить схему внутрь.  
  ![Иллюстрация к проекту](https://github.com/mrscaletto/Projector_8_bit/blob/main/Photo%26Video/%D1%81%D1%85%D0%B5%D0%BC%D0%B0%20%D0%BF%D1%83%D0%BB%D1%8C%D1%82%D0%B0.JPG)
- ![Иллюстрация к проекту] (https://github.com/mrscaletto/Projector_8_bit/blob/main/Photo%26Video/%D0%BF%D1%83%D0%BB%D1%8C%D1%82%D0%B0.jpg)
 
- 
+![пульт](https://github.com/mrscaletto/Projector_8_bit/blob/main/Photo%26Video/%D0%BF%D1%83%D0%BB%D1%8C%D1%82%D0%B0.jpg)
+
+
+
 
 
 (задача, описание вашего решения, компоненты, использованные инструменты/машины, проблемы/трудности и т.д.).
