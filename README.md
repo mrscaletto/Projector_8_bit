@@ -27,7 +27,12 @@ Authors: Danila Plaksin, Daud Paragulgov
  В основу пульта мы взяли схему предложенную нам на обучение в середине семестра, мы решили разработать корпус для пульта и поместить схему внутрь.  
  ![Иллюстрация к проекту](https://github.com/mrscaletto/Projector_8_bit/blob/main/Photo%26Video/%D1%81%D1%85%D0%B5%D0%BC%D0%B0%20%D0%BF%D1%83%D0%BB%D1%8C%D1%82%D0%B0.JPG)
 
-![пульт](https://github.com/mrscaletto/Projector_8_bit/blob/main/Photo%26Video/%D0%BF%D1%83%D0%BB%D1%8C%D1%82%D0%B0.jpg)
+![пульт](https://github.com/mrscaletto/Projector_8_bit/blob/main/Photo%26Video/%D0%BF%D1%83%D0%BB%D1%8C%D1%82%D0%B0.jpg)  
+  
+Передача данных происходит с помощью модуля NRF24L01+, для этого мы установили  библиотеку RF24 by TMRh20.
+![пульт](https://github.com/mrscaletto/Projector_8_bit/blob/main/Photo%26Video/%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%82%D1%87%D0%B8%D0%BA.JPG)  
+
+В основу пульта входила плата Arduino, три сервопривода для управлния матрицей и линзой, модуль приемника, тумблер для вкл/выкл.
 
 
 
